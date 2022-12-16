@@ -9,6 +9,7 @@ class FooterScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return SingleChildScrollView(
       child: Padding(
+        //dd
         padding: const EdgeInsets.only(top: 48.0),
         child: Directionality(
           textDirection: TextDirection.rtl,
